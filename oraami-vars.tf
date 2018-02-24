@@ -10,14 +10,6 @@ variable "lc_prefix" {
   default = "LCoraami"
 }
 
-variable "yourteamEmail" {
-  default = "t4tony@yahoo.com"
-}
-
-variable "yourteamSMS" {
-  default = "+14083866710"
-}
-
 variable "ELBName" {
   default = "ELBoraami"
 }
